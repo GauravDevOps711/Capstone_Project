@@ -1,4 +1,3 @@
-
 <h1>CAPSTONE PROJECT</h1>
 <p>
 
