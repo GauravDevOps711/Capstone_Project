@@ -80,8 +80,7 @@
 
 
 20. Code pushed to github remote repo. 
-21. Successfully pushed the code to Gitgub repo. 
-
+21. Successfully pushed the code to Gitgub repo. ![21](https://github.com/GauravDevOps711/Capstone_Project/assets/135973657/3c66da5c-4999-45f8-9e1b-c5426feda3fb)
 
 </p>
 
