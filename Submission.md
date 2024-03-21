@@ -94,7 +94,7 @@
 24. docker tag devops-build gaurav4u/prod_repo:prod--> docker images --> docker push gaurav4u/prod_repo:prod ![24](https://github.com/GauravDevOps711/test/assets/135973657/c5dd6bcb-e92f-4f3b-97a9-1b7513c8313f)
 
 
-25. Successfully pushed “dev” and “prod” to the Docker Hub repository. ![25](https://github.com/GauravDevOps711/test/assets/135973657/95f5a26a-b966-41eb-b7aa-63e6a7a0818a)
+25. Successfully pushed “dev” and “prod” to the Docker Hub repository. ![25](https://github.com/GauravDevOps711/Capstone_Project/assets/135973657/be660e56-107f-429e-ba74-9a4f1b3e7562)
 
 </p>
 
