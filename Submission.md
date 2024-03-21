@@ -55,7 +55,7 @@
 ![14 1](https://github.com/GauravDevOps711/test/assets/135973657/7570363b-b73b-44af-87fc-92e1e949f6a8)
 
 
-15. Successfully pushed to Dockerhub repositories. ![15](https://github.com/GauravDevOps711/test/assets/135973657/5bda88e2-f62e-4ed9-b63c-69a546793fef)
+15. Successfully pushed to Dockerhub repositories. ![25](https://github.com/GauravDevOps711/Capstone_Project/assets/135973657/e4c1e48e-695c-4f78-8bd3-cd62bf389d28)
 
 
 </p>
