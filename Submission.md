@@ -88,10 +88,11 @@
 22. nano pub_repo.sh && chmod +x pub_repo.sh--> cat pub_repo.sh ![22](https://github.com/GauravDevOps711/Capstone_Project/assets/135973657/63016bcb-f501-4720-95ac-4c0f82adb75c)
 
 
-23. docker tag devops-build gaurav4u/dev_repo:dev--> docker images --> docker push  gaurav4u/dev_repo:dev ![23](https://github.com/GauravDevOps711/test/assets/135973657/524fe955-eb7a-48b6-95b7-dd7309752ff2)
+23. docker tag devops-build gaurav4u/dev_repo:dev--> docker images --> docker push  gaurav4u/dev_repo:dev ![23](https://github.com/GauravDevOps711/Capstone_Project/assets/135973657/83e231b2-c5da-4e66-8f00-96556927e3af)
 
 
-24. docker tag devops-build gaurav4u/prod_repo:prod--> docker images --> docker push gaurav4u/prod_repo:prod ![24](https://github.com/GauravDevOps711/test/assets/135973657/c5dd6bcb-e92f-4f3b-97a9-1b7513c8313f)
+
+24. docker tag devops-build gaurav4u/prod_repo:prod--> docker images --> docker push gaurav4u/prod_repo:prod ![24](https://github.com/GauravDevOps711/Capstone_Project/assets/135973657/778dfccf-90f6-44eb-b75e-dd959917b2b9)
 
 
 25. Successfully pushed “dev” and “prod” to the Docker Hub repository. ![25](https://github.com/GauravDevOps711/Capstone_Project/assets/135973657/be660e56-107f-429e-ba74-9a4f1b3e7562)
