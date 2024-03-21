@@ -85,7 +85,7 @@
 
 <h3><b>DOCKER HUB</b></h3><p>
 
-22. nano pub_repo.sh && chmod +x pub_repo.sh--> cat pub_repo.sh ![22](https://github.com/GauravDevOps711/test/assets/135973657/f228bec7-495a-49ae-af17-b1cf96a61df7)
+22. nano pub_repo.sh && chmod +x pub_repo.sh--> cat pub_repo.sh ![22](https://github.com/GauravDevOps711/Capstone_Project/assets/135973657/63016bcb-f501-4720-95ac-4c0f82adb75c)
 
 
 23. docker tag devops-build gaurav4u/dev_repo:dev--> docker images --> docker push  gaurav4u/dev_repo:dev ![23](https://github.com/GauravDevOps711/test/assets/135973657/524fe955-eb7a-48b6-95b7-dd7309752ff2)
@@ -101,7 +101,7 @@
 
 <h3><b>JENKINS</b></h3><p>
 
-26. sudo apt install openjdk-17-jre-headless --> java --version ![26](https://github.com/GauravDevOps711/test/assets/135973657/3af65b99-0665-4506-8463-6bec2a1d2031)
+26. sudo apt install openjdk-17-jre-headless --> java --version ![26](https://github.com/GauravDevOps711/Capstone_Project/assets/135973657/7eca7126-43f4-44dd-8d47-936847a033c6)
 
 
 27. nano jenkins.sh--> sudo chmod +x jenkins.sh--> ./jenkins.sh ![27](https://github.com/GauravDevOps711/test/assets/135973657/34622e4e-cc13-4cb9-a440-d0a77b5f822c)
