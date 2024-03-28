@@ -78,7 +78,7 @@
 19. git remote add origin https://github.com/GauravDevOps711/Capstone_Project.git --> git push -u origin dev --> GitHub: UserID + Token Credential ![20](https://github.com/GauravDevOps711/test/assets/135973657/985dfc0e-8551-4c53-af49-9356a60a1630)
 
 
-20. Code pushed to github remote repo. 
+20. Code and master branch pushed to github remote repo. 
 21. Successfully pushed the code to Gitgub repo. ![21](https://github.com/GauravDevOps711/Capstone_Project/assets/135973657/3c66da5c-4999-45f8-9e1b-c5426feda3fb)
 
 </p>
