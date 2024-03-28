@@ -111,7 +111,8 @@
 28. systemctl status jenkins ![28](https://github.com/GauravDevOps711/test/assets/135973657/f0f375fa-2c87-460b-ad7b-7aecfdacb988)
 
 
-29. Copy & paste the password--> Install suggested plugins --> Fill all asked details--> SAVE. ![29](https://github.com/GauravDevOps711/test/assets/135973657/7780a69d-be48-4664-9459-45ec97dc9dd4)
+29. Copy & paste the password--> Install suggested plugins --> Fill all asked details--> SAVE.
+IMPORTANT NOTE: localhost can’t be webhooked with github repo, so launched an ec2 instance. ![29](https://github.com/GauravDevOps711/test/assets/135973657/7780a69d-be48-4664-9459-45ec97dc9dd4)
 
 
 30. Welcome To Jenkins. ![30](https://github.com/GauravDevOps711/test/assets/135973657/8627a448-397a-4369-8267-6ee8ceb26688)
